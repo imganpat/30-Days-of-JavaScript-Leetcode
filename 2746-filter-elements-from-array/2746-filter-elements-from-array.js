@@ -8,7 +8,6 @@ var filter = function(arr, fn) {
     const length = arr.length;
     for(let i = 0; i < length; i++)
         if(fn(arr[i], i)) 
-            filteredArr.push(arr[i]);
-        
+            filteredArr.push(arr[i]);   
     return filteredArr;
 };
