@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0014-longest-common-prefix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
