@@ -17,18 +17,14 @@ class Solution {
             ListNode node;
             if(list1.val < list2.val){
                 node = new ListNode(list1.val, null);
-                System.out.println("List1 " + node.val);
                 list1 = list1.next;
-
             }else{
                 node = new ListNode(list2.val,null);
-                System.out.println("List2 "+node.val);
                 list2 = list2.next;
             }
 
-            if(head == null){
+            if(head == null)
                 head = node;
-            }
             else {
                 ListNode current = head;
                 while (current.next != null)
