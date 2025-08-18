@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0014-longest-common-prefix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0066-plus-one) |
 ## String Matching
 |  |
 | ------- |
