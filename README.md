@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0069-sqrtx) |
+| [2630-alternating-digit-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2630-alternating-digit-sum) |
 ## String Matching
 |  |
 | ------- |
