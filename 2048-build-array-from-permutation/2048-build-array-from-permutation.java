@@ -1,16 +1,10 @@
 class Solution {
     public int[] buildArray(int[] nums) {
-        int n = nums.length;
-
-        for (int i = 0; i < n; i++) {
-            int newVal = nums[nums[i]] % n;
-            nums[i] = nums[i] + newVal * n;
-        }
-
-        for (int i = 0; i < n; i++) {
-            nums[i] = nums[i] / n; 
-        }
-
-        return nums;
+        int length = nums.length;
+        int [] ans = new int[length];
+        for(int i = 0; i < length; i++){
+            ans[i] = nums[nums[i]];
+        } 
+        return ans;
     }
 }
