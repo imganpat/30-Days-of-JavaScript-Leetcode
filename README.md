@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3379-score-of-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3379-score-of-a-string) |
 | [3194-find-words-containing-character](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3194-find-words-containing-character) |
+| [1205-defanging-an-ip-address](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1205-defanging-an-ip-address) |
 ## Trie
 |  |
 | ------- |
