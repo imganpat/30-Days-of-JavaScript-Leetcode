@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3194-find-words-containing-character) |
 | [1635-number-of-good-pairs](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3778-transform-array-by-parity](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
+| [3778-transform-array-by-parity](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3778-transform-array-by-parity](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
