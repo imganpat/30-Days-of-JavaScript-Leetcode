@@ -1,15 +1,14 @@
-// Approach Brute Force
-// Time Complexity: O(n^2)
-// Space Complexity: O(1)
+// Approach Brute Force. Optimized Solution (Using HashMap)
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 
 class Solution {
     public int numIdenticalPairs(int[] nums) {
         int count = 0;
-        for(int i = 0; i < nums.length; i++){
-            for(int j = i + 1; j < nums.length; j++){
-                if(nums[i] == nums[j])
-                    count++;
-            }
+        Map<Integer, Integer> freq = new HashMap<>();
+        for (int num: nums){
+            count += freq.getOrDefault(num, 0);
+            freq.put(num, freq.getOrDefault(num, 0) + 1);
         }
         return count;
     }
