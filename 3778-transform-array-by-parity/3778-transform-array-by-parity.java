@@ -1,16 +1,16 @@
-// Approach : Brute Force
-// Time Complexity: O(n log n)
-// Space Complexity: (1)
+// Approach : Two Pointer 
+// Time Complexity: O(n)
+// Space Complexity: (n)
 class Solution {
     public int[] transformArray(int[] nums) {
-        for(int i = 0; i < nums.length; i++){
+        int[] res = new int[nums.length];
+        for(int i = 0, left = 0, right = nums.length - 1; i < nums.length; i++){
             if(nums[i] % 2 == 0){
-                nums[i] = 0;
+                res[left++] = 0;
             }else{
-                nums[i] = 1;
+                res[right--] = 1;
             }
         }
-        Arrays.sort(nums);
-        return nums;
+        return res;
     }
 }
