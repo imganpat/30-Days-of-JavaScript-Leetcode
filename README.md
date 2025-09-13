@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3194-find-words-containing-character) |
 | [1205-defanging-an-ip-address](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [0782-jewels-and-stones](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0782-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1635-number-of-good-pairs) |
+| [0782-jewels-and-stones](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0782-jewels-and-stones) |
 ## Counting
 |  |
 | ------- |
