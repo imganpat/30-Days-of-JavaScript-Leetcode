@@ -1,3 +1,7 @@
+// Approach: Brute Force
+// Time Complexity: O(n)
+// Space Conplexity: O(1)
+
 class Solution {
     public int minimumOperations(int[] nums) {
         int count = 0;
