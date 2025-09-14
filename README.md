@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3778-transform-array-by-parity](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3778-transform-array-by-parity) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0069-sqrtx) |
 | [2630-alternating-digit-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2630-alternating-digit-sum) |
 | [1635-number-of-good-pairs](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String Matching
 |  |
 | ------- |
