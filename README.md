@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [1580-shuffle-the-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1580-shuffle-the-array) |
+| [1791-richest-customer-wealth](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3778-transform-array-by-parity](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3778-transform-array-by-parity) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
