@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [0782-jewels-and-stones](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0782-jewels-and-stones) |
+| [3567-convert-date-to-binary](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Trie
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2630-alternating-digit-sum) |
 | [1635-number-of-good-pairs](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3567-convert-date-to-binary](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3567-convert-date-to-binary) |
 ## String Matching
 |  |
 | ------- |
