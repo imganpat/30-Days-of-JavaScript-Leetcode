@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
