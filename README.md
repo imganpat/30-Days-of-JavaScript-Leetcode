@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [0782-jewels-and-stones](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0782-jewels-and-stones) |
 | [3567-convert-date-to-binary](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [0782-jewels-and-stones](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0782-jewels-and-stones) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3778-transform-array-by-parity](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
