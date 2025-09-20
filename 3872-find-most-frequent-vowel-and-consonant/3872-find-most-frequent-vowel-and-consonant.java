@@ -1,29 +1,29 @@
-// Approach: Brute Force
-// Time Complexity: O(n^2)
-// Space Complexity: O(1)
+// Approach: Better Approach 
+// Frequency Counting with Hashing (Optimal O(n))
+// Time Complexity: O(n)
+// Space Complexity: O(26) .i.e O(1)
 
 class Solution {
     public int maxFreqSum(String s) {
+        int[] freq = new int[26];
         int vowelMax = 0, consonantMax = 0;
         for (int i = 0; i < s.length(); i++) {
-            int vowelCount = 0, consonantCount = 0;
-            for (int j = 0; j < s.length(); j++) {
-                if (s.charAt(i) == s.charAt(j)) {
-                    if (s.charAt(i) == 'a' || s.charAt(i) == 'e' || s.charAt(i) == 'i' || s.charAt(i) == 'o'
-                            || s.charAt(i) == 'u') {
-                        vowelCount++;
-                    } else {
-                        consonantCount++;
-                    }
+            freq[s.charAt(i) - 'a']++;
+        }
+        
+        for(int i = 0; i < 26; i++){
+            char c = (char) (i + 'a');
+            if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ) {
+                if(vowelMax < freq[i]) {
+                    vowelMax = freq[i];
+                }
+            } else {
+                if(consonantMax < freq[i]) {
+                    consonantMax = freq[i];
                 }
             }
-            if (vowelMax < vowelCount) {
-                vowelMax = vowelCount;
-            }
-            if (consonantMax < consonantCount) {
-                consonantMax = consonantCount;
-            }
         }
+
         return vowelMax + consonantMax;
     }
 }
