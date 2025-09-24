@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-goal-parser-interpretation](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1797-goal-parser-interpretation) |
 ## Trie
 |  |
 | ------- |
