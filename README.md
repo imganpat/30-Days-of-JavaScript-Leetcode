@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [0283-move-zeroes](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [0283-move-zeroes](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
