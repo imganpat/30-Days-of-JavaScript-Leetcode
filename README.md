@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [0283-move-zeroes](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0283-move-zeroes) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2714-left-and-right-sum-differences](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
