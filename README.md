@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0283-move-zeroes) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2714-left-and-right-sum-differences](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [0643-maximum-average-subarray-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2714-left-and-right-sum-differences) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
