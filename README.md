@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2714-left-and-right-sum-differences](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [0643-maximum-average-subarray-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -131,9 +133,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
