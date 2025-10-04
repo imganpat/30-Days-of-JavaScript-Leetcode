@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [0643-maximum-average-subarray-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Counting
 |  |
 | ------- |
@@ -143,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
