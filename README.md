@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
