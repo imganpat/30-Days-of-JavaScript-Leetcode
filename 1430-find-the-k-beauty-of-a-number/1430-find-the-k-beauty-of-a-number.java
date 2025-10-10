@@ -16,11 +16,11 @@ class Solution {
         int count = 0; // To count the number of valid substrings
 
         // Slide a window of size 'k' across the string
-        for (int start = 0, end = k - 1; end < str.length(); start++, end++) {
-            
+        for (int start = 0; start + k <= str.length(); start++) {
+
             // Extract substring of length 'k' and convert it to integer
-            int subNumber = Integer.parseInt(str.substring(start, end + 1));
-            
+            int subNumber = Integer.parseInt(str.substring(start, start + k));
+
             // Check if subNumber is not zero and divides 'num' completely
             if (subNumber != 0 && num % subNumber == 0) {
                 count++; // Valid divisor substring found
