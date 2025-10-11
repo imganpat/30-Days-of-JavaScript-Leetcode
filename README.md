@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
 | ------- |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
