@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1755-defuse-the-bomb) |
 | [0594-longest-harmonious-subsequence](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,4 +168,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
