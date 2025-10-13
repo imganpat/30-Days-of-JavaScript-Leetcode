@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [0713-subarray-product-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Linked List
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [0209-minimum-size-subarray-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [0713-subarray-product-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [0713-subarray-product-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Queue
 |  |
 | ------- |
