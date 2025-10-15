@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [0713-subarray-product-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [0713-subarray-product-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Queue
 |  |
 | ------- |
