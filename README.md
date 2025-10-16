@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [0424-longest-repeating-character-replacement](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Counting
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [0424-longest-repeating-character-replacement](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Queue
 |  |
 | ------- |
