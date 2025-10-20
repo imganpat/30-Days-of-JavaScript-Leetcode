@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [0001-two-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0001-two-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [0001-two-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0001-two-sum) |
 ## Counting
 |  |
 | ------- |
