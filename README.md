@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [0001-two-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0001-two-sum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [0283-move-zeroes](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0283-move-zeroes) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3778-transform-array-by-parity) |
 | [0594-longest-harmonious-subsequence](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
