@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [0001-two-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0001-two-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [0283-move-zeroes](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0283-move-zeroes) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3811-reverse-degree-of-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
