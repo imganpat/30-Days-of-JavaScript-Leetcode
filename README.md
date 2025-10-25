@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2128-reverse-prefix-of-word](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [0125-valid-palindrome](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [0424-longest-repeating-character-replacement](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2128-reverse-prefix-of-word](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [0125-valid-palindrome](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
