@@ -1,15 +1,15 @@
 class Solution {
     public List<Integer> partitionLabels(String s) {
-        int[] lastIndex = new int[26];
+        Map<Character, Integer> lastIndex = new HashMap<>();
         List<Integer> partitions = new ArrayList<>();
 
         for (int i = 0; i < s.length(); i++) {
-            lastIndex[s.charAt(i) - 'a'] = i;
+            lastIndex.put(s.charAt(i), i);
         }
 
         for (int i = 0, end = 0, size = 0; i < s.length(); i++) {
             size++;
-            end = Math.max(end, lastIndex[s.charAt(i) - 'a']);
+            end = Math.max(end, lastIndex.get(s.charAt(i)));
 
             if (i == end) {
                 partitions.add(size);
