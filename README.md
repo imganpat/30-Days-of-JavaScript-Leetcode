@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2128-reverse-prefix-of-word](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [0125-valid-palindrome](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0125-valid-palindrome) |
+| [0768-partition-labels](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0768-partition-labels) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2128-reverse-prefix-of-word](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [0125-valid-palindrome](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0125-valid-palindrome) |
+| [0768-partition-labels](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0768-partition-labels) |
 ## Trie
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [0001-two-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0001-two-sum) |
+| [0768-partition-labels](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0768-partition-labels) |
 ## Counting
 |  |
 | ------- |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Greedy
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
