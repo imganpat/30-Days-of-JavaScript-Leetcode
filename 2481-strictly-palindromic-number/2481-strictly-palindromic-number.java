@@ -15,10 +15,10 @@ class Solution {
         StringBuilder res = new StringBuilder();
         int t = n;
         while (t > 0) {
-            res.insert(0, t % base);
+            res.append(t % base);
             t /= base;
         }
-        return res.toString();
+        return res.reverse().toString();
     }
 
 }
