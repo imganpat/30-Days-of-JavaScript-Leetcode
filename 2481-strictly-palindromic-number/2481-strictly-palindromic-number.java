@@ -1,21 +1,24 @@
 class Solution {
     public boolean isStrictlyPalindromic(int n) {
-        //     for(int i = 2; i < n - 1; i++){
-        //         System.out.println(i);
-
-        //     }
-        //     System.out.println(convert(n, 2));
-        //     return false;
-        // }
-        // public int convert(int n, int base){
-        //     int res = 0;
-        //     int t = n;
-        //     while(n < 0){
-        //         res = res * 10 + (t % base);
-        //         t/=base;
-        //     }
-        //     return res;
-
-        return false;
+        for (int i = 2; i < n - 1; i++) {
+            String s = convert(n, i);
+            for (int st = 0, e = s.length() - 1; st < e; st++, e--) {
+                if (s.charAt(st) != s.charAt(e)) {
+                    return false;
+                }
+            }
+        }
+        return true;
     }
+
+    public String convert(int n, int base) {
+        StringBuilder res = new StringBuilder();
+        int t = n;
+        while (t > 0) {
+            res.insert(0, t % base);
+            t /= base;
+        }
+        return res.toString();
+    }
+
 }
