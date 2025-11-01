@@ -21,9 +21,7 @@ class Solution {
         while (mid <= right) {
             if (nums[mid] == 0) {
                 // Swap 0 to the front
-                int temp = nums[left];
-                nums[left] = nums[mid];
-                nums[mid] = temp;
+                swap(nums, left, mid);
                 left++;
                 mid++;
             } 
@@ -33,11 +31,15 @@ class Solution {
             } 
             else {
                 // Swap 2 to the end
-                int temp = nums[mid];
-                nums[mid] = nums[right];
-                nums[right] = temp;
+                swap(nums, mid, right);
                 right--;
             }
         }
+    }
+
+    public void swap(int[] arr, int i, int j){
+        int t = arr[i];
+        arr[i] = arr[j];
+        arr[j] = t;
     }
 }
