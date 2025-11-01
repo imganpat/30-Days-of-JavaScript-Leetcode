@@ -1,21 +1,42 @@
+// Approach: Dutch National Flag Algorithm (Three-Pointer Approach)
+// 1. The problem is to sort an array containing only 0s, 1s, and 2s without using extra space.
+// 2. Use three pointers: 
+//    - 'left' tracks the position where the next 0 should go.
+//    - 'mid' is the current index being processed.
+//    - 'right' tracks the position where the next 2 should go.
+// 3. Traverse the array while mid <= right:
+//    - If nums[mid] == 0 → swap nums[left] and nums[mid], increment both left and mid.
+//    - If nums[mid] == 1 → just move mid forward.
+//    - If nums[mid] == 2 → swap nums[mid] and nums[right], decrement right (do not move mid since swapped value is unprocessed).
+// 4. Continue until mid passes right. The array will be sorted as all 0s → 1s → 2s.
+//
+// Time complexity: O(n) – each element is visited at most once
+// Space complexity: O(1) – in-place sorting, no extra space used
+
 class Solution {
     public void sortColors(int[] nums) {
-        int zerosCount = 0, onesCount = 0, twosCount = 0;
-        for (int num : nums) {
-            switch (num) {
-                case 0 -> zerosCount++;
-                case 1 -> onesCount++;
-                case 2 -> twosCount++;
-            }
-        }
+        int left = 0, mid = 0, right = nums.length - 1;
 
-        for (int i = 0; i < nums.length; i++) {
-            if (i < zerosCount) {
-                nums[i] = 0;
-            } else if (i < zerosCount + onesCount) {
-                nums[i] = 1;
-            } else {
-                nums[i] = 2;
+        // Traverse the array until mid crosses right
+        while (mid <= right) {
+            if (nums[mid] == 0) {
+                // Swap 0 to the front
+                int temp = nums[left];
+                nums[left] = nums[mid];
+                nums[mid] = temp;
+                left++;
+                mid++;
+            } 
+            else if (nums[mid] == 1) {
+                // Leave 1s in the middle
+                mid++;
+            } 
+            else {
+                // Swap 2 to the end
+                int temp = nums[mid];
+                nums[mid] = nums[right];
+                nums[right] = temp;
+                right--;
             }
         }
     }
