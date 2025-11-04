@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0015-3sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [0075-sort-colors](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0075-sort-colors) |
+| [1972-rotating-the-box](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1972-rotating-the-box) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [0075-sort-colors](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0075-sort-colors) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [1972-rotating-the-box](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1972-rotating-the-box) |
 ## String
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [1972-rotating-the-box](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1972-rotating-the-box) |
 ## Bit Manipulation
 |  |
 | ------- |
