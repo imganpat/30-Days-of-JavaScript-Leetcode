@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0075-sort-colors) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [1972-rotating-the-box](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1972-rotating-the-box) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [0125-valid-palindrome](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0125-valid-palindrome) |
 | [0768-partition-labels](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0768-partition-labels) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
 |  |
 | ------- |
@@ -232,11 +234,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0768-partition-labels) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Brainteaser
 |  |
 | ------- |
