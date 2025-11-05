@@ -1,35 +1,28 @@
-// Approach: Stack + Count Imbalance
-// 1. Traverse the string and use a stack to track unmatched '[' brackets.
-// 2. For each character:
-//    - If it's '[', push it onto the stack.
-//    - If it's ']', then:
-//        • If stack is not empty, pop one '[' (it matches).
-//        • If stack is empty, it means this ']' is unmatched → increment swaps counter.
-// 3. At the end, each unmatched ']' requires one swap with a future '[',
-//    and two unmatched ']' cover one swap operation → return (swaps + 1) / 2.
-// 4. Return the minimum number of swaps needed to balance the bracket string.
+// Approach: Count Imbalance Using Greedy
+// 1. Use a counter `count` to track imbalance between '[' and ']' while scanning the string.
+//    - Increment `count` for ']' (unmatched closing).
+//    - Decrement `count` for '[' (a potential match to close imbalance).
+// 2. Track the maximum imbalance `maxCount` encountered.
+//    - Peak imbalance tells how many swaps are required because each swap fixes 2 misplaced brackets.
+// 3. Final swaps needed = (maxCount + 1) / 2.
 //
-// Time complexity: O(n) – single traversal of the string
-// Space complexity: O(n) – stack may store up to n characters in worst case
+// Time complexity: O(n) – one pass through the string
+// Space complexity: O(1) – only integer variables used
 
 class Solution {
     public int minSwaps(String s) {
-        int swaps = 0;
-        Stack<Character> stack = new Stack<>();
+        int maxCount = 0, count = 0;
 
         for (char c : s.toCharArray()) {
             if (c == '[') {
-                stack.push(c);
+                count--; // A '[' can potentially cancel a ']'
             } else {
-                if (stack.empty()) {
-                    swaps++; // found unmatched ']'
-                } else {
-                    stack.pop(); // match found
-                }
+                count++; // A ']' increases imbalance
             }
+
+            maxCount = Math.max(maxCount, count); // Track highest imbalance
         }
 
-        // Each swap fixes two unmatched brackets
-        return (swaps + 1) / 2;
+        return (maxCount + 1) / 2; // Each swap fixes 2 imbalance
     }
 }
