@@ -9,8 +9,10 @@ class Solution {
             if(players[playerIndex] <= trainers[trainerIndex]){
                 count++;
                 playerIndex++;
+                trainerIndex++;
+            } else{
+                trainerIndex++;
             }
-            trainerIndex++;
         }
 
         return count;
