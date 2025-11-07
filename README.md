@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0075-sort-colors) |
 | [1972-rotating-the-box](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1972-rotating-the-box) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [1972-rotating-the-box](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1972-rotating-the-box) |
+| [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Bit Manipulation
 |  |
 | ------- |
