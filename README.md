@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1972-rotating-the-box) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [0455-assign-cookies](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [0455-assign-cookies](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [0075-sort-colors](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0075-sort-colors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [0455-assign-cookies](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [0455-assign-cookies](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0455-assign-cookies) |
 ## Brainteaser
 |  |
 | ------- |
