@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [0455-assign-cookies](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0455-assign-cookies) |
+| [0141-linked-list-cycle](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0206-reverse-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [0141-linked-list-cycle](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [0001-two-sum](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0001-two-sum) |
 | [0768-partition-labels](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0768-partition-labels) |
+| [0141-linked-list-cycle](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0141-linked-list-cycle) |
 ## Counting
 |  |
 | ------- |
