@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/imganpat/cracking-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0014-longest-common-prefix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0035-search-insert-position) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/imganpat/cracking-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/imganpat/cracking-leetcode/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0768-partition-labels) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
