@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [0455-assign-cookies](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0455-assign-cookies) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1480-running-sum-of-1d-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
