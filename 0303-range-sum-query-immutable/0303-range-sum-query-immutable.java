@@ -3,17 +3,16 @@ class NumArray {
 
     public NumArray(int[] nums) {
         int n = nums.length;
-        prefixSum = new int[n];
-        prefixSum[0] = nums[0];
-        for (int i = 1; i < n; i++) {
-            this.prefixSum[i] = this.prefixSum[i - 1] + nums[i];
+        prefixSum = new int[n + 1];
+        for (int i = 0; i < n; i++) {
+            this.prefixSum[i+1] = this.prefixSum[i] + nums[i];
         }
     }
 
     public int sumRange(int left, int right) {
-        return (left == 0)
-                ? this.prefixSum[right]
-                : this.prefixSum[right] - this.prefixSum[left - 1];
+        return left == 0
+            ? this.prefixSum[right + 1]
+            : this.prefixSum[right + 1] - this.prefixSum[left];
     }
 }
 
